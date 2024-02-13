@@ -1,2 +1,2 @@
-# quizapp-ui
-quizapp ui
+#quizapp ui
+Technology used nextjs, typescript, tailwind, daisyui
